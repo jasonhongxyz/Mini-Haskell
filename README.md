@@ -1,4 +1,4 @@
-# MiniHaskell Project
+# Mini-Haskell Project
 
 ## Names
 - David Kirk (dsak@bu.edu)
