@@ -1,4 +1,4 @@
-# Mini-Haskell Project
+# Mini-Hakell
 
 ## Summary
 This language can be thought of as "Mini-Haskell". It aims to provide a set of powerful primitives for
