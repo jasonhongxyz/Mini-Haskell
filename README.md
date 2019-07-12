@@ -1,4 +1,7 @@
-# Mini-Hakell
+# Mini-Haskell
+
+## Contributors
+Jason Hong, David Kirk, Jim Mortenson
 
 ## Summary
 This language can be thought of as "Mini-Haskell". It aims to provide a set of powerful primitives for
