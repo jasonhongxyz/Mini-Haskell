@@ -1,6 +1,6 @@
-# Mini-Haskell
+# Mini-Haskell Project
 
-## Contributors
+## Written By
 Jason Hong, David Kirk, Jim Mortenson
 
 ## Summary
