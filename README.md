@@ -1,9 +1,4 @@
-# MiniHaskell Project
-
-## Names
-- David Kirk (dsak@bu.edu)
-- Jason Hong (jason810@bu.edu)
-- James Mortenson (jimmort@bu.edu)
+# Mini-Haskell Project
 
 ## Summary
 This language can be thought of as "Mini-Haskell". It aims to provide a set of powerful primitives for
